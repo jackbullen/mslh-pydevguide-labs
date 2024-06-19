@@ -1,5 +1,8 @@
 **/.env
 
+data
+init_db.py
+
 **/venv
 
 **/.DS_Store
