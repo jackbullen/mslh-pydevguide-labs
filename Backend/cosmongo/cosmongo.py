@@ -18,8 +18,6 @@ from langchain.agents.agent_toolkits import create_conversational_retrieval_agen
 from langchain.tools import StructuredTool
 from langchain_core.messages import SystemMessage
 
-from .tools import tools
-
 CONNECTION_STRING = os.getenv("DB_CONNECTION_STRING")
 AOAI_ENDPOINT_CHAT = os.getenv("AOAI_ENDPOINT_CHAT")
 AOAI_KEY_CHAT = os.getenv("AOAI_KEY_CHAT")
