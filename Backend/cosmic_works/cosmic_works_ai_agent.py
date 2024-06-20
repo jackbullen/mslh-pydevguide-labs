@@ -8,9 +8,9 @@ import json
 from typing import List
 import pymongo
 from dotenv import load_dotenv
-from langchain.chat_models import AzureChatOpenAI
-from langchain.embeddings import AzureOpenAIEmbeddings
-from langchain.vectorstores.azure_cosmos_db import AzureCosmosDBVectorSearch
+from langchain_openai import AzureChatOpenAI
+from langchain_openai import AzureOpenAIEmbeddings
+from langchain_community.vectorstores import AzureCosmosDBVectorSearch
 from langchain.schema.document import Document
 from langchain.agents import Tool
 from langchain.agents.agent_toolkits import create_conversational_retrieval_agent

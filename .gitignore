@@ -4,6 +4,7 @@ data
 init_db.py
 
 **/venv
+**/node_modules
 
 **/.DS_Store
 **/__pycache__
