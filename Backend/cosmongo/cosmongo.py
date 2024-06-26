@@ -1,7 +1,7 @@
 """
-The CosmicWorksAIAgent class encapsulates a LangChain 
-agent that can be used to answer questions about Cosmic Works
-products, customers, and sales.
+The Cosmongo class encapsulates a LangChain 
+agent that can be used to answer questions about UVic
+degrees, courses, and sections in Fall 24 and Spring 25
 """
 import os
 import json
