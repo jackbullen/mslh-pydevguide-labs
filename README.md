@@ -1,6 +1,6 @@
 # Microsoft AI Learning Hackathon
 
-Here is my work in the Azure OpenAI Python Developer Guide
+Here is my work in the Azure OpenAI Python Developer Guide labs
 
 ## Labs
 
