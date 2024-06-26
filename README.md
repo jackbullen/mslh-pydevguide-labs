@@ -23,4 +23,4 @@ Backend is a FastAPI application.
 
 ### Usage
 
-![Azure Cosmos DB + Azure OpenAI Python Developer Guide Architecture Diagram](/Guide/06_Provision_Azure_Resources/media/architecture.jpg)
+![architecture](https://github.com/jackbullen/mslh-pydevguide-labs/assets/37254717/61a0cec6-4ec9-4859-bff4-ccbe7ea0c408)
