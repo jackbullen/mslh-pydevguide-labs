@@ -15,6 +15,6 @@ Here is my work in the Azure OpenAI Python Developer Guide
 
 ## Rest of guide
 
-I have decided to mainly focus on the lab notebooks in this repo. It is straightforward going integrating the last notebook here with the Backend provided in the original guide. 
+I have decided to mainly focus on the lab notebooks in this repo. It is straightforward integrating the last notebook here with the Backend provided in the original guide. 
 
 ![architecture](https://github.com/jackbullen/mslh-pydevguide-labs/assets/37254717/61a0cec6-4ec9-4859-bff4-ccbe7ea0c408)
